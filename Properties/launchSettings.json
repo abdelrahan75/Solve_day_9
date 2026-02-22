@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "solve_day_9_C#": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
